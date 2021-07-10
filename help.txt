@@ -1,0 +1,75 @@
+Welcome to Chess.
+
+Beat your opponent or a computer in order to gain points and improve your 
+score.
+
+To see this help menu, you can press F1 and it will show up
+
+Piece Points:
+
+Each piece in chess has a value (labeled below). Take your opponents pieces
+to decrease that pieces value from their point value. You can increase your
+point value by promoting a pawn.
+Pawn - 1 point.
+Rook - 5 point.
+Knight - 3 point.
+Bishop - 3 point.
+Queen - 9 point.
+The king does not have a point value as it can never be taken.
+
+Scoring:
+
+Winning a game improves your score, and you get a higher score
+the harder the bot you defeat and the higher the score of the opponent.
+You will also lose points in the same way if you lose.
+
+
+How to Play:
+
+After starting a game, move the blue square around with the arrow keys or 
+'wasd' keys. Press enter to select a piece or to try take a piece.
+
+CHESS RULES:
+
+If you get a pawn to your opponents first rank, the pawn will be promoted into
+either a Queen, Rook, Knight or Bishop at the users discretion.
+
+You can castle your king by moving it two spaces right or left, when it has
+not moved before, when there is a castle on the corner space on the same side,
+and when you will not be putting your kind through check.
+
+If a pawn is moved two spaces and lands nexto your pawn, for the next move
+only, you can take that pawn as if it had only moved one space up.
+
+You must stop a check if you are in check (a piece is attacking your king)
+If you cannot get out of check, your opponent wins.
+
+
+
+PIECE RULES:
+
+Pawn:
+The pawn moves directly up for white or down for black. It moves only one
+square, except for the first move when a pawn can move two spaces. It takes
+the block right or left of where it can move, IE: diagonally, and not forward
+
+Rook:
+The rook moves along the horizontals or verticles. It can move up to 8 spaces,
+but cannot jump over pieces and takes the piece it lands on.
+
+Knight:
+The knight moves one block horizontally and two blocks vertically, or the 
+otherway around. It can jump over pieces and takes the piece it lands on.
+
+Bishop:
+The bishop moves along the diagonals, IE: it moves the same number of blocks
+horizontally and vertically and can travel up to 8 squares. It cannot go over
+pieces and takes the piece it lands on.
+
+Queen:
+The queen can move like a bishop or a rook, on the diagonals, horizontal or 
+verticle line. It cannot jump over pieces and takes the piece it lands on
+
+King:
+The king moves like the queen, except that it can only move one block per 
+move.
